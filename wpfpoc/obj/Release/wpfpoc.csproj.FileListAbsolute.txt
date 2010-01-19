@@ -1,0 +1,16 @@
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\wpfpoc.exe
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\wpfpoc.pdb
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\WindowsFormsIntegration.dll
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\Window1.baml
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\App.g.cs
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc_MarkupCompile.cache
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.g.resources
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.Chart.resources
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.Properties.Resources.resources
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.csproj.GenerateResource.Cache
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.exe
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\obj\Release\wpfpoc.pdb
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\System.Windows.Forms.DataVisualization.dll
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\System.Windows.Forms.DataVisualization.xml
+C:\Documents and Settings\randrews\Desktop\Projects\wpfpoc\wpfpoc\bin\Release\System.Drawing.dll
